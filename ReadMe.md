@@ -55,7 +55,7 @@
 - 📊 **Tech Talks Voting App**  
   Frontend project built in class to allow students to propose and vote on technical talks to be presented.  
   Developed with modern JS React, integrates voting logic and simple routing.  
-  [GitHub Repo](https://github.com/Oscargm13/charlas-front)
+  [GitHub Repo](https://github.com/Spariva/charlas-front)
 
 - 🚗 **Final Project: Rent a Car Platform**  
   Full-stack application for managing car rentals. Includes client booking system, car catalog, and admin dashboard.  
