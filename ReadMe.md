@@ -43,12 +43,24 @@
 ## 🚀 Featured Projects
 
 - 📦 **Stock Management App**  
-  Backend in .NET API, MVC frontend, SQL database, deployed on Azure and currently migrating to AWS.  
-  [GitHub Repo](https://github.com/Oscargm13/NombreDelRepo)
+  Full-stack solution for stock control. Backend built with .NET API and MVC, SQL database, deployed on Azure and currently migrating to AWS.  
+  Features include invoice parsing with Azure Document Intelligence and multi-role access control.  
+  [GitHub Repo](https://github.com/Oscargm13/AppGestionStockAzure)
 
-- 🧾 **Invoice OCR Analyzer**  
-  Reads PDF invoices using Azure Document Intelligence. Built with clean architecture and full cloud integration.  
-  [GitHub Repo](https://github.com/Oscargm13/NombreDelRepo)
+- 🔧 **Stock API (Standalone)**  
+  RESTful API developed in .NET Core to manage product inventory, supporting CRUD operations, secure access and entity relationships.  
+  Built following clean architecture principles and connected to a SQL database.  
+  [GitHub Repo](https://github.com/Oscargm13/ApiGestionStock)
+
+- 📊 **Tech Talks Voting App**  
+  Frontend project built in class to allow students to propose and vote on technical talks to be presented.  
+  Developed with modern JS React, integrates voting logic and simple routing.  
+  [GitHub Repo](https://github.com/Oscargm13/charlas-front)
+
+- 🚗 **Final Project: Rent a Car Platform**  
+  Full-stack application for managing car rentals. Includes client booking system, car catalog, and admin dashboard.  
+  Built with php, js and SQL Server.  
+  [GitHub Repo](https://github.com/Oscargm13/alquilerVehiculos)
 
 ---
 
